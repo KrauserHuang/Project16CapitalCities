@@ -13,6 +13,8 @@
 		4F72B6C326F4254C0091DEB1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F72B6C126F4254C0091DEB1 /* Main.storyboard */; };
 		4F72B6C526F425510091DEB1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F72B6C426F425510091DEB1 /* Assets.xcassets */; };
 		4F72B6C826F425510091DEB1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F72B6C626F425510091DEB1 /* LaunchScreen.storyboard */; };
+		4F72B6D026F427600091DEB1 /* Capital.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F72B6CF26F427600091DEB1 /* Capital.swift */; };
+		4F72B6D226F6D28F0091DEB1 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F72B6D126F6D28F0091DEB1 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		4F72B6C426F425510091DEB1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4F72B6C726F425510091DEB1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4F72B6C926F425510091DEB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4F72B6CF26F427600091DEB1 /* Capital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Capital.swift; sourceTree = "<group>"; };
+		4F72B6D126F6D28F0091DEB1 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				4F72B6BD26F4254C0091DEB1 /* SceneDelegate.swift */,
 				4F72B6BF26F4254C0091DEB1 /* ViewController.swift */,
 				4F72B6C126F4254C0091DEB1 /* Main.storyboard */,
+				4F72B6D126F6D28F0091DEB1 /* DetailViewController.swift */,
+				4F72B6CF26F427600091DEB1 /* Capital.swift */,
 				4F72B6C426F425510091DEB1 /* Assets.xcassets */,
 				4F72B6C626F425510091DEB1 /* LaunchScreen.storyboard */,
 				4F72B6C926F425510091DEB1 /* Info.plist */,
@@ -139,6 +145,8 @@
 			files = (
 				4F72B6C026F4254C0091DEB1 /* ViewController.swift in Sources */,
 				4F72B6BC26F4254C0091DEB1 /* AppDelegate.swift in Sources */,
+				4F72B6D226F6D28F0091DEB1 /* DetailViewController.swift in Sources */,
+				4F72B6D026F427600091DEB1 /* Capital.swift in Sources */,
 				4F72B6BE26F4254C0091DEB1 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
